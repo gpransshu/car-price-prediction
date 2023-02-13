@@ -1,0 +1,539 @@
+1674913480154	geckodriver	INFO	Listening on 127.0.0.1:50032
+1674913483114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileWX5l1z"
+1674913483500	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674913483506	Marionette	INFO	Listening on port 50042
+Read port: 50042
+WebDriver BiDi listening on ws://127.0.0.1:50033
+1674913483643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileWX5l1z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50033/devtools/browser/9c2ee12b-e880-48d8-a8ad-fd135eec1ef4
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913520430	geckodriver	INFO	Listening on 127.0.0.1:50156
+1674913523478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileaaGkFE"
+1674913523813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674913523818	Marionette	INFO	Listening on port 50179
+Read port: 50179
+WebDriver BiDi listening on ws://127.0.0.1:50157
+1674913523963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileaaGkFE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50157/devtools/browser/ab3a5673-bcbd-49d7-8871-66983274802b
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913709840	geckodriver	INFO	Listening on 127.0.0.1:50296
+1674913712891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileGpBaJq"
+1674913713247	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674913713252	Marionette	INFO	Listening on port 50305
+Read port: 50305
+WebDriver BiDi listening on ws://127.0.0.1:50297
+1674913713389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileGpBaJq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50297/devtools/browser/f6b03041-264f-4d8f-9447-2a0104860ef7
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913867340	Marionette	INFO	Stopped listening on port 50305
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674913741786	Marionette	INFO	Listening on port 50394
+Read port: 50394
+WebDriver BiDi listening on ws://127.0.0.1:50385
+1674913741944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile7VK9Ce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50385/devtools/browser/9b196904-58d9-4b04-bfbb-77db3eb2c59c
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913756446	geckodriver	INFO	Listening on 127.0.0.1:50470
+1674913759505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileomp4y3"
+1674913759792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674913759796	Marionette	INFO	Listening on port 50480
+Read port: 50480
+WebDriver BiDi listening on ws://127.0.0.1:50471
+1674913759924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileomp4y3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50471/devtools/browser/f1bcbaee-0606-4020-b923-e4865621e677
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913866224	Marionette	INFO	Stopped listening on port 50480
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674913783963	Marionette	INFO	Listening on port 50591
+Read port: 50591
+WebDriver BiDi listening on ws://127.0.0.1:50582
+1674913784098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile4h8moL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50582/devtools/browser/acca9703-b993-4d01-ae04-c010064e5a95
+JavaScript error: https://www.cardekho.com/latestcars line 498 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 498 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913865395	Marionette	INFO	Stopped listening on port 50591
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674913826334	Marionette	INFO	Listening on port 50683
+Read port: 50683
+WebDriver BiDi listening on ws://127.0.0.1:50675
+1674913826478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileci1ny7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50675/devtools/browser/3165e3b4-93b5-4374-be5a-5568e331ccfc
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913864776	Marionette	INFO	Stopped listening on port 50683
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674913971547	geckodriver	INFO	Listening on 127.0.0.1:50796
+1674913974578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileJSwvkh"
+1674913974922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674913974927	Marionette	INFO	Listening on port 50806
+Read port: 50806
+WebDriver BiDi listening on ws://127.0.0.1:50797
+1674913975065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileJSwvkh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50797/devtools/browser/a583f76b-d503-4339-bfc0-70eb1a8696cb
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674913996790	geckodriver	INFO	Listening on 127.0.0.1:50886
+1674913999840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofilexT8mTu"
+1674914000103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674914000108	Marionette	INFO	Listening on port 50896
+Read port: 50896
+WebDriver BiDi listening on ws://127.0.0.1:50887
+1674914000236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofilexT8mTu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50887/devtools/browser/234d8bd5-90fb-4132-ae57-30e9e304afee
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674914079585	Marionette	INFO	Stopped listening on port 50896
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674914150673	geckodriver	INFO	Listening on 127.0.0.1:50992
+1674914153750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileNBOWyp"
+1674914154016	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674914154020	Marionette	INFO	Listening on port 51002
+Read port: 51002
+WebDriver BiDi listening on ws://127.0.0.1:50993
+1674914154146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileNBOWyp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50993/devtools/browser/f9b20947-386b-43f2-ac50-ed969ec8eb4f
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674914204388	Marionette	INFO	Stopped listening on port 51002
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674914482333	geckodriver	INFO	Listening on 127.0.0.1:51112
+1674914485379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileuodAnD"
+1674914485648	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674914485652	Marionette	INFO	Listening on port 51122
+Read port: 51122
+WebDriver BiDi listening on ws://127.0.0.1:51113
+1674914485779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileuodAnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51113/devtools/browser/91e4ed81-5828-49ad-9774-1863822bfcae
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674914570402	geckodriver	INFO	Listening on 127.0.0.1:51201
+1674914573422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileCuATDX"
+1674914573693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674914573697	Marionette	INFO	Listening on port 51211
+Read port: 51211
+WebDriver BiDi listening on ws://127.0.0.1:51202
+1674914573835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileCuATDX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51202/devtools/browser/a03724f4-abc3-4a48-91ee-d20b29daa411
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674914749165	geckodriver	INFO	Listening on 127.0.0.1:51294
+1674914752211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile3jZN36"
+1674914752477	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674914752482	Marionette	INFO	Listening on port 51303
+Read port: 51303
+WebDriver BiDi listening on ws://127.0.0.1:51295
+1674914752614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile3jZN36\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51295/devtools/browser/3f6f83d1-68e0-43f9-9510-d137bada6fdc
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 829 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674914881932	Marionette	INFO	Stopped listening on port 51303
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674915182376	geckodriver	INFO	Listening on 127.0.0.1:51434
+1674915185424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile8mN24e"
+1674915185726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915185732	Marionette	INFO	Listening on port 51444
+Read port: 51444
+WebDriver BiDi listening on ws://127.0.0.1:51435
+1674915185881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile8mN24e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51435/devtools/browser/31340901-8306-4456-a983-8953e4d87084
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915431307	Marionette	INFO	Stopped listening on port 51444
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915251116	Marionette	INFO	Listening on port 51548
+Read port: 51548
+WebDriver BiDi listening on ws://127.0.0.1:51539
+1674915251254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofilegyVR8e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51539/devtools/browser/f8f4bc21-5286-4882-b116-431ed6915ebc
+JavaScript error: https://www.cardekho.com/latestcars line 498 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 498 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915432217	Marionette	INFO	Stopped listening on port 51548
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915281270	Marionette	INFO	Listening on port 51641
+Read port: 51641
+WebDriver BiDi listening on ws://127.0.0.1:51627
+1674915281414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileU3wqOR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51627/devtools/browser/a7bbc8b2-fe2a-450b-b78d-20540f7ad7b2
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915433457	Marionette	INFO	Stopped listening on port 51641
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915321234	Marionette	INFO	Listening on port 51747
+Read port: 51747
+WebDriver BiDi listening on ws://127.0.0.1:51738
+1674915321376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileSOiVbE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51738/devtools/browser/39acdd2e-397e-4c10-9ff8-0fb1bc81b7f1
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915434168	Marionette	INFO	Stopped listening on port 51747
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915359156	Marionette	INFO	Listening on port 51835
+Read port: 51835
+WebDriver BiDi listening on ws://127.0.0.1:51826
+1674915359314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileayPecP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51826/devtools/browser/ac686c3e-defe-4b07-86a8-813ef59e7794
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915434912	Marionette	INFO	Stopped listening on port 51835
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 31464, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674915586043	geckodriver	INFO	Listening on 127.0.0.1:51958
+1674915589072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileWHovMB"
+1674915589415	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915589420	Marionette	INFO	Listening on port 51968
+Read port: 51968
+WebDriver BiDi listening on ws://127.0.0.1:51959
+1674915589568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileWHovMB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51959/devtools/browser/7c127dc0-b81d-4e6e-8e60-62098922068e
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7664 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915665181	Marionette	INFO	Stopped listening on port 51968
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915626453	Marionette	INFO	Listening on port 52061
+Read port: 52061
+WebDriver BiDi listening on ws://127.0.0.1:52052
+1674915626603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofilemq0ZBD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52052/devtools/browser/f718d5bf-f1a6-4a84-b57d-e7a5a3e362bf
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915663351	Marionette	INFO	Stopped listening on port 52061
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674915683987	geckodriver	INFO	Listening on 127.0.0.1:52147
+1674915687035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileORIC53"
+1674915687313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915687318	Marionette	INFO	Listening on port 52157
+Read port: 52157
+WebDriver BiDi listening on ws://127.0.0.1:52148
+1674915687448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileORIC53\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52148/devtools/browser/f9033e1d-eb9d-4b56-8e16-904436b3f2d4
+1674915689682	Marionette	INFO	Stopped listening on port 52157
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674915733983	geckodriver	INFO	Listening on 127.0.0.1:52190
+1674915737010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileXs5fQh"
+1674915737283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915737288	Marionette	INFO	Listening on port 52200
+Read port: 52200
+WebDriver BiDi listening on ws://127.0.0.1:52191
+1674915737418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileXs5fQh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52191/devtools/browser/fc8bc753-b338-432a-bbcc-bc6b8d860399
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915791177	Marionette	INFO	Stopped listening on port 52200
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674915770400	Marionette	INFO	Listening on port 52290
+Read port: 52290
+WebDriver BiDi listening on ws://127.0.0.1:52281
+1674915770528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileCSbiEh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52281/devtools/browser/67d8eadb-41c9-4076-a7f8-0beea6371906
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674915789655	Marionette	INFO	Stopped listening on port 52290
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674915798924	geckodriver	INFO	Listening on 127.0.0.1:52365
+1674915801954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileqZV3lT"
+1674915802239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915802244	Marionette	INFO	Listening on port 52375
+Read port: 52375
+WebDriver BiDi listening on ws://127.0.0.1:52366
+1674915802373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileqZV3lT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52366/devtools/browser/7cfa6dbe-12d3-4499-8df7-49bb383cf605
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916778727	Marionette	INFO	Stopped listening on port 52375
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674916052383	Marionette	INFO	Listening on port 52484
+Read port: 52484
+WebDriver BiDi listening on ws://127.0.0.1:52475
+1674916052510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofileoapkeA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52475/devtools/browser/de46bd49-e9ad-4722-bd14-7ae518a0893b
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916777272	Marionette	INFO	Stopped listening on port 52484
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674916112891	Marionette	INFO	Listening on port 52595
+Read port: 52595
+WebDriver BiDi listening on ws://127.0.0.1:52586
+1674916113044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile1tLsCu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52586/devtools/browser/a3042a4e-9fd0-4ad4-a48d-17436e033744
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916775518	Marionette	INFO	Stopped listening on port 52595
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674916174161	Marionette	INFO	Listening on port 52696
+Read port: 52696
+WebDriver BiDi listening on ws://127.0.0.1:52687
+1674916174296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofilezZAp68\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52687/devtools/browser/ed9cd977-792b-46b5-8713-0ff33aae771a
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916774084	Marionette	INFO	Stopped listening on port 52696
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+lly enable window occlusion 0
+1674916702351	Marionette	INFO	Listening on port 52902
+Read port: 52902
+WebDriver BiDi listening on ws://127.0.0.1:52893
+1674916702508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PRANSSHU\\AppData\\Local\\Temp\\rust_mozprofile2eJVnK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52893/devtools/browser/88a5dff6-b9bd-4187-a062-153b3d1a788a
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 3: TypeError: window.lotame_13021 is undefined
+JavaScript error: https://www.cardekho.com/latestcars line 497 > injectedScript, line 1: TypeError: window.lotame_13021 is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5737 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916771346	Marionette	INFO	Stopped listening on port 52902
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
